@@ -3,9 +3,10 @@ channels:
   - conda-forge
   - defaults
 dependencies:
-  - python=3.12
+  - python=3.12.8
   - pip
   - python-dotenv
+  - requests
   - numpy
   - pandas
   - scipy
